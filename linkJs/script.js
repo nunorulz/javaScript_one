@@ -8,4 +8,8 @@ const conexao = () => {
 // Chamando a função
 conexao();
 
+const titulo = document.getElementById('titulo')
+
+console.log(titulo)
+
 
